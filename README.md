@@ -1,5 +1,6 @@
-# hello-world
-Just a tutorial repository
+# Hi everyone 👋
 
-Hi everyone, my name is Vlad. I am working on using this test repository to learn to use git and GitHub.
-I hope to later put some of my personal projects in C#, C++ and other languages on GitHub.
+- ⌨ I'm currently working on some mobile app and Arduino projects
+- 🌐 I'm planning to start a web app project soon (web framework/technology still TBD)
+- 💻 Previously have done work with C#, Dart/Flutter, PHP, Javascript and some C++ along the way
+- 👨‍🎓 Currently learning about Typescript, Python and web technologies like React, Angular and Node.js
